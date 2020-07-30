@@ -11,6 +11,7 @@ libGDX is a cross-platform Java game development framework based on OpenGL (ES) 
 
 Download the Repository from https://github.com/Nachiket724/CoinMan-Game.git.
 
-Here are some Screenshots about the game.
+Here are some Screenshots about the CoinMan Game.
 
-![](Images/1.png)
+<img src="Images/1.PNG" width="250"><img src="Images/1.PNG" width="250"> <img src="Images/3.PNG" width="250">
+
